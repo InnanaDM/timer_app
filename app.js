@@ -32,3 +32,10 @@ var start = function() {
         clockRunning =  true;
     }
 }
+start();
+
+var stop = function() {
+
+    clearInterval(intervalId);
+    clockRunning = false;
+}
