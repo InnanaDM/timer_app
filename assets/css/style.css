@@ -15,7 +15,7 @@
 
 div.nav-wrapper {
     background-color: seashell;
-    po
+    
 }
 
 h1.title {
@@ -24,4 +24,22 @@ h1.title {
 
 .buttons {
     text-align: center;
+}
+
+#display {
+    text-align: center;
+    font-size: 50px;
+    margin: 40px;
+    border-style: solid;
+    background-color: goldenrod;
+
+
+}
+
+/* !not working */
+a.brand-logo {
+    font-size: 50px;
+    color: black;
+
+
 }
