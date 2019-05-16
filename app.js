@@ -57,3 +57,11 @@ var count = function() {
     $('#display').text(converted);
 }
 
+var timeConverter = function(i) {
+
+    let minutes = Math.floor(i / 60);
+
+
+    
+}
+
