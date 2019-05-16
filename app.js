@@ -32,10 +32,20 @@ var start = function() {
         clockRunning =  true;
     }
 }
-start();
+// start();
 
 var stop = function() {
 
     clearInterval(intervalId);
     clockRunning = false;
 }
+
+var recordLap = function() {
+
+    let converted = timeConverter(time);
+
+    $('#laps').append('<p>Lap ' + lap + " : " + converted + "</p>");
+
+    lap++;
+}
+
