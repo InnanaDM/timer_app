@@ -61,7 +61,12 @@ var timeConverter = function(i) {
 
     let minutes = Math.floor(i / 60);
 
+    let seconds = i - (minutes * 60);
 
-    
+    if (seconds < 10) {
+        seconds = "0" + seconds;
+    }
+
+
 }
 
