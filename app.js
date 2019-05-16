@@ -49,3 +49,11 @@ var recordLap = function() {
     lap++;
 }
 
+var count = function() {
+    time++;
+
+    let converted = timeConverter(time);
+
+    $('#display').text(converted);
+}
+
