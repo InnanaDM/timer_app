@@ -51,7 +51,11 @@ footer {
     text-align: center;
 }
 
-
+/* *displays laps */
 #lapBox {
     text-align: center;
+    border-style: dotted;
+    border-color: blueviolet;
+    margin-top: 100px;
+    margin-bottom: 50px;
 }
