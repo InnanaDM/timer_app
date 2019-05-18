@@ -32,8 +32,45 @@ h1.title {
     background-color: greenyellow;
     height: 50px;
     width: 100px;
+    border-radius: 8px;
+    margin: 20px;
+    font-size: 30px;
 
 }
+
+#stop {
+    color: chocolate;
+    background-color: greenyellow;
+    height: 50px;
+    width: 100px;
+    border-radius: 8px;
+    margin: 20px;
+    font-size: 30px;
+
+
+}
+
+#reset {
+    color: chocolate;
+    background-color: greenyellow;
+    height: 50px;
+    width: 100px;
+    border-radius: 8px;
+    margin: 20px;
+    font-size: 30px;
+}
+
+#lap {
+
+    color: chocolate;
+    background-color: greenyellow;
+    height: 50px;
+    width: 100px;
+    border-radius: 8px;
+    margin: 20px;
+    font-size: 30px;
+}
+
 
 #display {
     text-align: center;
