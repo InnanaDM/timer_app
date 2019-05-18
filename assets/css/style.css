@@ -28,47 +28,57 @@ h1.title {
 }
 
 #start {
-    color: chocolate;
+    color: dodgerblue;
     background-color: greenyellow;
     height: 50px;
     width: 100px;
+    border-color: blueviolet;
+    border-width: 3px;
     border-radius: 8px;
     margin: 20px;
     font-size: 30px;
+    font-weight: 500;
 
 }
 
 #stop {
-    color: chocolate;
+    color: dodgerblue;
     background-color: greenyellow;
     height: 50px;
     width: 100px;
+    border-color: blueviolet;
+    border-width: 3px;
     border-radius: 8px;
     margin: 20px;
     font-size: 30px;
-
-
+    font-weight: 500;
 }
 
 #reset {
-    color: chocolate;
+    color: dodgerblue;
     background-color: greenyellow;
     height: 50px;
     width: 100px;
+    border-color: blueviolet;
+    border-width: 3px;
     border-radius: 8px;
     margin: 20px;
     font-size: 30px;
+    font-weight: 500;
 }
 
 #lap {
 
-    color: chocolate;
+    color: dodgerblue;
     background-color: greenyellow;
     height: 50px;
     width: 100px;
+    border-color: blueviolet;
+    border-width: 3px;
     border-radius: 8px;
     margin: 20px;
     font-size: 30px;
+    font-weight: 500;
 }
 
 
