@@ -24,6 +24,15 @@ h1.title {
 
 .buttons {
     text-align: center;
+   
+}
+
+#start {
+    color: chocolate;
+    background-color: greenyellow;
+    height: 50px;
+    width: 100px;
+
 }
 
 #display {
