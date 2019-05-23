@@ -1,5 +1,5 @@
 
-console.log("connected");
+console.log("ready!");
 
 window.onload = function() {
     $('#start').on('click', start);
